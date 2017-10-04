@@ -44,3 +44,17 @@ How do I use objects in webpages?!
 1. **JavaScript AJAX XHR** Yet another way objects are used in webpages is to wrap around requests made to an API.
     - http://www.vikingcodeschool.com/dashboard#/react-basics/the-fetch-api
     - https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch
+    - http://api.jquery.com/jquery.ajax/
+
+
+
+
+
+
+
+
+
+
+
+
+
