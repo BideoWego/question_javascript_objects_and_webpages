@@ -25,6 +25,7 @@ How do I use objects in webpages?!
     1. JavaScript Constructors
     1. JavaScript Events and the DOM
     1. JavaScript Templates
+    1. JavaScript AJAX XHR
 1. **JavaScript Objects** Even easier JavaScript classes, there's JavaScript objects.
     - http://www.vikingcodeschool.com/dashboard#/falling-in-love-with-javascript/basic-syntax-objects
 1. **JavaScript Classes** OOP is not complex in its simplest form.
@@ -34,6 +35,12 @@ How do I use objects in webpages?!
 1. **JavaScript Events and the DOM** Tying OOP into HTML events and CSS manipulation is powerful, but it's an added layer of complexity. At the simplest level, you want an object to represent an element or component on your webpage. When the user interacts with that element, it will likely call a function on the object. The most common library used for this purpose is jQuery. A more robust and modern solution would be React.
     - http://www.vikingcodeschool.com/dashboard#/falling-in-love-with-javascript/events
     - http://www.vikingcodeschool.com/posts/learn-full-stack-javascript-in-12-weeks-with-viking-immersive
+    - https://api.jquery.com/category/events/
+    - https://api.jquery.com/category/manipulation/
 1. **JavaScript Templates** Another way objects are used in webpages is simple display. You have a webpage that represents and object. The various elements in that page display properties of that object.
     - http://www.vikingcodeschool.com/dashboard#/professional-development-with-javascript/templates
-
+    - https://expressjs.com/en/guide/using-template-engines.html
+    - http://handlebarsjs.com/
+1. **JavaScript AJAX XHR** Yet another way objects are used in webpages is to wrap around requests made to an API.
+    - http://www.vikingcodeschool.com/dashboard#/react-basics/the-fetch-api
+    - https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch
