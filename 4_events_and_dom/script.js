@@ -27,7 +27,7 @@ $(function() {
       alert(greeting);
       return false;
     });
-    var $person = $('<li>').addClass('list-item');
+    var $person = $('<li>').addClass('list-group-item');
     $person.append($link);
     $people.append($person);
   });

@@ -1,0 +1,17 @@
+<header class="page-header text-center">
+  <h1>People</h1>
+</header>
+
+<main class="container">
+  <ul id="people" class="list-group">
+    {{#each people as |person| }}
+      <li class="list-group-item">
+        <p>Name: {{ person.name }}</p>
+        <p>Age: {{ person.age }}</p>
+      </li>
+    {{/each }}
+  </ul>
+</main>
+
+
+
